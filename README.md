@@ -1,6 +1,11 @@
 # Research-papers
 
-1. Genre Classification for Movies
+1. Belief Thresholds
+
+This paper explores the social dynamics leading to rapid belief change by using an agent-based model written in Netlogo. Underlying concepts implemented include preference falsification, diverse individual thresholds for change, social clustering, and dissent punishment. The ODD protocol is used to describe the model design. 
+
+
+2. Genre Classification for Movies
 
 The paper implemented and analysed the use
 of decision tree and logistic regression models
